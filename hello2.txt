@@ -1,2 +1,4 @@
 ECHO is on.
 "Nimadir" 
+"Assalomu alaykum hello2" 
+"Assalomu alaykum hello4" 
